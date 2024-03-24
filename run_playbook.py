@@ -1,7 +1,5 @@
 # File Name: run_playbook.py
-# Assignment: 2
-# Completed by: Karam Baroud
-# Submission Date: March 16, 2024
+
 import ansible_runner
 import urllib.request
 
